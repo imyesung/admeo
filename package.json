@@ -1,0 +1,16 @@
+{
+  "name": "admeo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imyesung/admeo.git"
+  },
+  "author": "Yesung Lim <limyesung@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imyesung/admeo/issues"
+  },
+  "homepage": "https://github.com/imyesung/admeo#readme",
+  "description": ""
+}
